@@ -88,3 +88,4 @@ myenv
 
 # Mypy cache
 .mypy_cache/
+/data
